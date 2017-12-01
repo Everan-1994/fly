@@ -1,4 +1,4 @@
-﻿Fly Template 由 layui 官方社区（Fly社区）友情抽取，页面基于 layui 搭建而成，提供了全屏和固宽两类排版，并且具备响应式适配能力，可很好地作为简约型问答社区的页面支撑。
+﻿Fly Template 基于 layui 搭建而成，提供了全屏和固宽两类排版，并且具备响应式适配能力，可很好地作为简约型问答社区的页面支撑。
 
 # 目录说明  
 ```
@@ -18,13 +18,6 @@
 
 当然，如果觉得编辑器无法满足你的需求，你也可以把该编辑器换成别的HTML编辑器或MarkDown编辑器。
 
-# 预览地址
-http://www.layui.com/template/fly/demo/html/catalog.html
-
 # 开源协议
 MIT License
 
-# 社区相关
-* [Fly社区](http://fly.layui.com/)
-* [码云](https://gitee.com/sentsin/fly/)
-* [GitHub](https://github.com/layui/fly)
